@@ -10,7 +10,7 @@ function cc() {
 }
 function welcome() {
 	console.log('Welcome to chat.majianyu.eu.org! You\'re chatting with other people who visited ' + domain + ' and opened their browser\'s console! Type help() and hit enter to learn more.');
-	console.log('Created by Dalton Edwards :) Source Code: https://github.com/DaltonWebDev/console.chat / Follow Me: https://twitter.com/DaltonEdwards');
+	console.log('Created by Dalton Edwards :) Source Code: https://github.com/DaltonWebDev/console.chat / By Blog: https://blog.majianyu.eu.org/');
 }
 function help() {
 	console.log('HELP >\nSet Username: Type username("your username") and hit enter.\nSend Message: Type send("your message") and hit enter. You can also include a second parameter to change text color like this: send("your message", "254cf5") - enter any valid hex code without the # sign.\n\nDid you know you can also do send`your message`?');
