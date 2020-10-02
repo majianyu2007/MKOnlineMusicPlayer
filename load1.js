@@ -1,4 +1,4 @@
-var domain = window.location.hostname;;
+var domain = window.location.hostname;
 function cc() {
 	var enabled = localStorage.getItem('enabled');
 	if (enabled === null) {
